@@ -1,0 +1,30 @@
+.countdown {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.countdown div {
+  padding: 20px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  margin: 5px;
+  opacity: 0.7;
+  background: black;
+  color: white;
+}
+
+.countdown div:first-child {
+  background: #9E1832
+}
+
+.countdown span {
+  display: block;
+  font-size: 25px;
+}
+
+.due_soon {
+  display: block;
+}
