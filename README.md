@@ -2,7 +2,7 @@
 Capstone design project for CS495 fall 2019.
 
 ## Todo
-- [ ] Decide on app name
+- [x] Decide on app name
 - [ ] Website Rough Draft
 - [ ] Logo
 
