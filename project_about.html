@@ -74,9 +74,26 @@
         </div>
         
         <div class="floating_section">
-          <h1>Suggestion Box</h1>
+          <h1>Suggestions or Comments?</h1>
           <br><br>
-          <p>If you have any good suggestion please sent an email to</p>
+          
+          <!-- Suggestion Form -->
+          <form action="scripts/suggestion.php" method="POST">
+            Your Name:
+            <input type="text" name="name" placeholder="First and Last Name">
+            <br><br>
+            Email:
+            <input type="text" name="email" placeholder="email">
+            <br><br>
+            Subject:
+            <input type="text" name="subject" placeholder="subject">
+            <br><br>
+            Suggestions/Comments:
+            <br>
+            <textarea rows="10" cols="40" name="comments" placeholder="Thank you for your suggestions and/or comments."></textarea>
+            <br><br>
+            <input type="submit" name="submit" value="submit">
+          </form>
           
         </div>
       </div>
