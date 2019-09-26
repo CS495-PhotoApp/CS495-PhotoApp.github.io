@@ -58,6 +58,7 @@ nav ul li ul {
 
 nav ul li:hover ul {
   display: block;
+  z-index: 1;
 }
 
 nav ul li ul li {
@@ -69,5 +70,5 @@ nav ul li ul li a {
 }
 
 nav ul li ul li a:hover {
-  background-color: darkslategray;
+  color: #131313;
 }
