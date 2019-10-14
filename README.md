@@ -1,2 +1,2 @@
-# PhotoTK
-This is the repository for the PhotoTK github website.
+# PhotoTK.github.io
+PhotoTK website
