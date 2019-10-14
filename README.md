@@ -1,2 +1,2 @@
-# PhotoTK.github.io
+# phototk.github.io
 PhotoTK website
