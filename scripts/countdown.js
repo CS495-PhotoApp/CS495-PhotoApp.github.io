@@ -1,7 +1,7 @@
 const countdown = document.querySelector('.countdown');
 
 // Set Due Date
-const dueDate = new Date('November, 12 2019 14:00:00').getTime();
+const dueDate = new Date('November, 19 2019 14:00:00').getTime();
 
 // Update every second
 const interval = setInterval(() => {
