@@ -12,7 +12,8 @@ body {
 }
 
 body main {
-  margin: 50px;
+  margin: auto;
+  width: 85%;
   text-align: center;
   color: white;
 }
